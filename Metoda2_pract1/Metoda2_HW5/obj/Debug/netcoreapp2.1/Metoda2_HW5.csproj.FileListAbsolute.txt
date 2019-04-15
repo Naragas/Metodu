@@ -1,0 +1,11 @@
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\bin\Debug\netcoreapp2.1\Metoda2_HW5.deps.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\bin\Debug\netcoreapp2.1\Metoda2_HW5.runtimeconfig.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\bin\Debug\netcoreapp2.1\Metoda2_HW5.runtimeconfig.dev.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\bin\Debug\netcoreapp2.1\Metoda2_HW5.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\bin\Debug\netcoreapp2.1\Metoda2_HW5.pdb
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.csprojAssemblyReference.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.AssemblyInfoInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.AssemblyInfo.cs
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW5\obj\Debug\netcoreapp2.1\Metoda2_HW5.pdb

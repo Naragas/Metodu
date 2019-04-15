@@ -1,0 +1,10 @@
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\bin\Debug\netcoreapp2.1\Metoda2_CW8.deps.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\bin\Debug\netcoreapp2.1\Metoda2_CW8.runtimeconfig.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\bin\Debug\netcoreapp2.1\Metoda2_CW8.runtimeconfig.dev.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\bin\Debug\netcoreapp2.1\Metoda2_CW8.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\bin\Debug\netcoreapp2.1\Metoda2_CW8.pdb
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\obj\Debug\netcoreapp2.1\Metoda2_CW8.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\obj\Debug\netcoreapp2.1\Metoda2_CW8.AssemblyInfoInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\obj\Debug\netcoreapp2.1\Metoda2_CW8.AssemblyInfo.cs
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\obj\Debug\netcoreapp2.1\Metoda2_CW8.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW8\obj\Debug\netcoreapp2.1\Metoda2_CW8.pdb

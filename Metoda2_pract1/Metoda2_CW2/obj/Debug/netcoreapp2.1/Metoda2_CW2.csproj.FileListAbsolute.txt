@@ -1,0 +1,10 @@
+D:\C#\Metoda2_pract1\Metoda2_CW2\bin\Debug\netcoreapp2.1\Metoda2_CW2.deps.json
+D:\C#\Metoda2_pract1\Metoda2_CW2\bin\Debug\netcoreapp2.1\Metoda2_CW2.runtimeconfig.json
+D:\C#\Metoda2_pract1\Metoda2_CW2\bin\Debug\netcoreapp2.1\Metoda2_CW2.runtimeconfig.dev.json
+D:\C#\Metoda2_pract1\Metoda2_CW2\bin\Debug\netcoreapp2.1\Metoda2_CW2.dll
+D:\C#\Metoda2_pract1\Metoda2_CW2\bin\Debug\netcoreapp2.1\Metoda2_CW2.pdb
+D:\C#\Metoda2_pract1\Metoda2_CW2\obj\Debug\netcoreapp2.1\Metoda2_CW2.csproj.CoreCompileInputs.cache
+D:\C#\Metoda2_pract1\Metoda2_CW2\obj\Debug\netcoreapp2.1\Metoda2_CW2.AssemblyInfoInputs.cache
+D:\C#\Metoda2_pract1\Metoda2_CW2\obj\Debug\netcoreapp2.1\Metoda2_CW2.AssemblyInfo.cs
+D:\C#\Metoda2_pract1\Metoda2_CW2\obj\Debug\netcoreapp2.1\Metoda2_CW2.dll
+D:\C#\Metoda2_pract1\Metoda2_CW2\obj\Debug\netcoreapp2.1\Metoda2_CW2.pdb

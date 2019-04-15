@@ -1,0 +1,11 @@
+D:\C#\Metoda2_pract1\Metoda2_eX2\bin\Debug\netcoreapp2.1\Metoda2_eX2.deps.json
+D:\C#\Metoda2_pract1\Metoda2_eX2\bin\Debug\netcoreapp2.1\Metoda2_eX2.runtimeconfig.json
+D:\C#\Metoda2_pract1\Metoda2_eX2\bin\Debug\netcoreapp2.1\Metoda2_eX2.runtimeconfig.dev.json
+D:\C#\Metoda2_pract1\Metoda2_eX2\bin\Debug\netcoreapp2.1\Metoda2_eX2.dll
+D:\C#\Metoda2_pract1\Metoda2_eX2\bin\Debug\netcoreapp2.1\Metoda2_eX2.pdb
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.csprojAssemblyReference.cache
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.csproj.CoreCompileInputs.cache
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.AssemblyInfoInputs.cache
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.AssemblyInfo.cs
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.dll
+D:\C#\Metoda2_pract1\Metoda2_eX2\obj\Debug\netcoreapp2.1\Metoda2_eX2.pdb

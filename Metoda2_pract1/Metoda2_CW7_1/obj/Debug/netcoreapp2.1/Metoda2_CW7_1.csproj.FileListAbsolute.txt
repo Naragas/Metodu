@@ -1,0 +1,10 @@
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\bin\Debug\netcoreapp2.1\Metoda2_CW7_1.deps.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\bin\Debug\netcoreapp2.1\Metoda2_CW7_1.runtimeconfig.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\bin\Debug\netcoreapp2.1\Metoda2_CW7_1.runtimeconfig.dev.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\bin\Debug\netcoreapp2.1\Metoda2_CW7_1.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\bin\Debug\netcoreapp2.1\Metoda2_CW7_1.pdb
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\obj\Debug\netcoreapp2.1\Metoda2_CW7_1.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\obj\Debug\netcoreapp2.1\Metoda2_CW7_1.AssemblyInfoInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\obj\Debug\netcoreapp2.1\Metoda2_CW7_1.AssemblyInfo.cs
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\obj\Debug\netcoreapp2.1\Metoda2_CW7_1.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_CW7_1\obj\Debug\netcoreapp2.1\Metoda2_CW7_1.pdb

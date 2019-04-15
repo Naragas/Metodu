@@ -1,0 +1,11 @@
+D:\C#\Metoda1_pract1\Metoda1_pract1\bin\Debug\netcoreapp2.1\Metoda1_pract1.deps.json
+D:\C#\Metoda1_pract1\Metoda1_pract1\bin\Debug\netcoreapp2.1\Metoda1_pract1.runtimeconfig.json
+D:\C#\Metoda1_pract1\Metoda1_pract1\bin\Debug\netcoreapp2.1\Metoda1_pract1.runtimeconfig.dev.json
+D:\C#\Metoda1_pract1\Metoda1_pract1\bin\Debug\netcoreapp2.1\Metoda1_pract1.dll
+D:\C#\Metoda1_pract1\Metoda1_pract1\bin\Debug\netcoreapp2.1\Metoda1_pract1.pdb
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.csprojAssemblyReference.cache
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.csproj.CoreCompileInputs.cache
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.AssemblyInfoInputs.cache
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.AssemblyInfo.cs
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.dll
+D:\C#\Metoda1_pract1\Metoda1_pract1\obj\Debug\netcoreapp2.1\Metoda1_pract1.pdb

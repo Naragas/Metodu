@@ -1,0 +1,10 @@
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\bin\Debug\netcoreapp2.1\Metoda2_HW4.deps.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\bin\Debug\netcoreapp2.1\Metoda2_HW4.runtimeconfig.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\bin\Debug\netcoreapp2.1\Metoda2_HW4.runtimeconfig.dev.json
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\bin\Debug\netcoreapp2.1\Metoda2_HW4.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\bin\Debug\netcoreapp2.1\Metoda2_HW4.pdb
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\obj\Debug\netcoreapp2.1\Metoda2_HW4.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\obj\Debug\netcoreapp2.1\Metoda2_HW4.AssemblyInfoInputs.cache
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\obj\Debug\netcoreapp2.1\Metoda2_HW4.AssemblyInfo.cs
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\obj\Debug\netcoreapp2.1\Metoda2_HW4.dll
+D:\Обучение\C#\Metoda2_pract1\Metoda2_HW4\obj\Debug\netcoreapp2.1\Metoda2_HW4.pdb
